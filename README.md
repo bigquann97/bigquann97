@@ -3,7 +3,7 @@
   ### 👋 Hi, there!
   - 🌱 I'm Quann, earned my bachelor's degree from the Department of Culture and Tourism in Kyunghee University.
   - 💬 I'm currently studying Backend Web Development based on Java and Spring Boot Framework
-  - 📫 How to reach me: bigquann97@gmail.com
+  - 📫 How to reach me: bigquan977@gmail.com
   
 <div align="center">
 
