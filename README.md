@@ -5,18 +5,6 @@
   - 💬 I'm currently studying Backend Web Development based on Java and Spring Boot Framework
   - 📫 How to reach me: bigquan977@gmail.com
   
-<div align="center">
-
-
-<hr>
-  
-![Quann's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigquann97&show_icons=true&theme=merko)
-  
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-
-</div>
   
 <!--
 **bigquann97/bigquann97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
