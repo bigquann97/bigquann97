@@ -4,7 +4,7 @@ I'm a software engineer passionate about building robust backend systems using K
 Currently, I'm focused on developing scalable solutions at Appteen Planet.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Kotlin, Java
+- **Languages:** Kotlin, Java, Flutter
 - **Frameworks:** Spring Boot, Spring Framework
 - **Databases:** MySQL, Redis
 - **Tools:** Git, IntelliJ IDEA, Postman
@@ -14,7 +14,9 @@ Currently, I'm focused on developing scalable solutions at Appteen Planet.
 - LinkedIn: [Connect with me on LinkedIn](https://link.tenten.games/to/quann)
 
 [![Tenten](https://github.com/bigquann97/bigquann97/blob/main/tenten.png?raw=true)](https://link.tenten.games/to/quann)
-
+| Kotlin | Java |
+| ------ | ---- |
+|  |  |
 <!-- Feel free to customize this README with your own information! -->
 
   
