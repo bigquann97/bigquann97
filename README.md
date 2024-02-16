@@ -11,10 +11,11 @@ Currently, I'm focused on developing scalable solutions at Appteen Planet.
 
 ## 💬 Get in Touch
 [![Email](https://img.shields.io/badge/Email-quann%40tenten.games-007396?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quann.tenten.games) <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://link.tenten.games/to/quann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/quannkim)
 
 ---
 
+### Appteen Planet - Tenten <br>
 [![Tenten](https://github.com/bigquann97/bigquann97/blob/main/tenten.png?raw=true)](https://link.tenten.games/to/quann)
 
 <!-- Feel free to customize this README with your own information! -->
