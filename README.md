@@ -1,4 +1,4 @@
-# Hello, I'm Quann! 👋
+  # Hello, I'm Quann! 👋
 
 I'm a software engineer passionate about building robust backend systems using Kotlin and Spring Boot. <br>
 Currently, I'm focused on developing scalable solutions at Appteen Planet.
@@ -11,7 +11,7 @@ Currently, I'm focused on developing scalable solutions at Appteen Planet.
 
 ## 💬 Get in Touch
 [![Email](https://img.shields.io/badge/Email-quann%40tenten.games-007396?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quann.tenten.games) <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/quannkim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/quannkim)
 
 ---
 
