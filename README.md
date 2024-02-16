@@ -1,6 +1,7 @@
 # Hello, I'm Quann 👋
 
 I'm a software engineer passionate about building robust backend systems using Kotlin and Spring Boot. 
+
 Currently, I'm focused on developing scalable solutions at Appteen Planet.
 
 ## 🔧 Technologies & Tools
