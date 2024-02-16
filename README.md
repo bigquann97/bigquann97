@@ -12,8 +12,10 @@ Currently, I'm focused on developing scalable solutions at Appteen Planet.
 
 ## 💬 Get in Touch
 - Email: [quann@tenten.games](mailto:quann.tenten.games)
+- LinkedIn: [LinkedIn](https://link.tenten.games/to/quann)
 
 Feel free to reach out if you want to discuss collaboration opportunities or just chat about technology!
+
 
 <!-- Feel free to customize this README with your own information! -->
 
@@ -22,7 +24,6 @@ Feel free to reach out if you want to discuss collaboration opportunities or jus
 **bigquann97/bigquann97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 Here are some ideas to get you started:
-- LinkedIn: [Your LinkedIn Profile](link)
 
 ## 🌱 Currently Learning
 - Docker & Kubernetes
