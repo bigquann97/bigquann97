@@ -14,9 +14,7 @@ Currently, I'm focused on developing scalable solutions at Appteen Planet.
 - LinkedIn: [Connect with me on LinkedIn](https://link.tenten.games/to/quann)
 
 [![Tenten](https://github.com/bigquann97/bigquann97/blob/main/tenten.png?raw=true)](https://link.tenten.games/to/quann)
-| Kotlin | Java |
-| ------ | ---- |
-|  |  |
+
 <!-- Feel free to customize this README with your own information! -->
 
   
