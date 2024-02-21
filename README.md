@@ -17,7 +17,7 @@ Currently, I'm focused on developing scalable solutions at Appteen Planet.
 
 ### Appteen Planet - Tenten <br>
 [![Tenten](https://github.com/bigquann97/bigquann97/blob/main/tenten.png?raw=true)](https://link.tenten.games/to/quann)<br>
-![Downloads](https://img.shields.io/badge/Downloads-4.1M+-brightgreen?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/Downloads-5.8M+-brightgreen?style=for-the-badge)
 
 <!-- Feel free to customize this README with your own information! -->
 
